@@ -12,5 +12,5 @@ HTTP methods: GET PUT POST DELETE
 
 Postman is used to perform these methods on a url(locally hosted)
 
-I have an entire video on how to build this entire thing from scratch 
+I have a video on how to build this entire thing from scratch 
 Link:https://www.youtube.com/watch?v=sBDnLtXBMNo&t=1001s
